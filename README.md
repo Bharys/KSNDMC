@@ -1,5 +1,5 @@
 # KSNDMC
-Code to scrape the web and download the daily reservoir data from KSNDMC and do a simple data analysis.
+Python Code for webscraping the daily reservoir data from KSNDMC(Disaster Monitoring Centre) and to do a simple data analysis.
 File will be saved in a csv format
 
 You can specify the years & weeks required or ignore them to get the data for all the years & weeks available.
